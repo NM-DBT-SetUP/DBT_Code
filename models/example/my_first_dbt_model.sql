@@ -11,7 +11,7 @@
 
 with source_data as (
 
-    select 10 as id
+    select 55 as id
     union all
     select null as id
 
