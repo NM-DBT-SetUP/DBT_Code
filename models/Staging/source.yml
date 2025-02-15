@@ -1,0 +1,8 @@
+version: 2
+sources:
+    - name: datafeed_shared_schema
+      database: di_dev
+      schema: source_row_schema
+      tables:
+        - name: row_customer
+        
